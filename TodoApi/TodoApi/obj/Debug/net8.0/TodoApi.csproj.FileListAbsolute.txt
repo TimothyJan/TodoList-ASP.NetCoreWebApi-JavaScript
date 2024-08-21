@@ -229,3 +229,4 @@ C:\Users\janti\OneDrive\Documents\GitHub\TodoList-ASP.NetCoreWebApi-JavaScript\T
 C:\Users\janti\OneDrive\Documents\GitHub\TodoList-ASP.NetCoreWebApi-JavaScript\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\janti\OneDrive\Documents\GitHub\TodoList-ASP.NetCoreWebApi-JavaScript\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\janti\OneDrive\Documents\GitHub\TodoList-ASP.NetCoreWebApi-JavaScript\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\janti\OneDrive\Documents\GitHub\TodoList-ASP.NetCoreWebApi-JavaScript\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.staticwebassets.runtime.json
