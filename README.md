@@ -2,7 +2,7 @@
 Todo List using the ASP.NET Core Web API and JavaScript. Controller-based web API that uses a database. 
 <br>
 
-ASP.NET Core Web API and JavaScript<a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-8.0">link</a>
+ASP.NET Core Web API and JavaScript <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-8.0">link</a>
 <br>
 
 ASP.NET Core Web API Tutorial <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio">link</a>
@@ -12,11 +12,21 @@ Design
 <img src="./design.jpg" alt="design-screenshot">
 <br>
 
-Swagger Documentation <br>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-8.0">link</a>
+Swagger Documentation <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-8.0">link</a>
 <br>
 
-Notes:
+CheckList:
+<ul>
+  <li>Create Web Project.</li>
+  <li>Add a NuGet package to support the database used.</li>
+  <li>Add a model class that represent the data that the app manages. .</li>
+  <li>Add a database context that coordinates Entity Framework functionality for a data model. .</li>
+  <li>Register the database context with the dependency injection (DI) container to provide service to controllers.</li>
+  <li>Scaffold a controller to generate code.</li>
+  <li>Update methods accordingly.</li>
+</ul>
+
+API Notes:
 <ul>
   <li>A model is a set of classes that represent the data that the app manages. The model for this app is the TodoItem class.</li>
   <li>The database context is the main class that coordinates Entity Framework functionality for a data model. In ASP.NET Core, services such as the DB context must be registered with the dependency injection (DI) container. The container provides the service to controllers.</li>
