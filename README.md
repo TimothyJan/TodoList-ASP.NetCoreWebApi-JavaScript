@@ -24,6 +24,7 @@ CheckList:
   <li>Register the database context with the dependency injection (DI) container to provide service to controllers.</li>
   <li>Scaffold a controller to generate code.</li>
   <li>Update methods accordingly.</li>
+  <li>Prevent over-posting to limit the data that's input and returned using a Data Transfer Object(DTO or subset of the model).</li>
 </ul>
 
 API Notes:
